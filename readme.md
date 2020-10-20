@@ -1,6 +1,7 @@
 # Vue Js Progress
 
-![altcenter](http://code.mustafacagri.com/vue-js-progress.gif "Vue Js Progress")
+
+![altcenter](https://www.mustafacagri.com/wp-content/uploads/2020/10/vue-js-progress.gif "Vue Js Progress")
 
 
 With Vue Js Progress, you will have the opportunity to create your own animated progress bars.
@@ -21,6 +22,9 @@ import VueJsProgress from 'vue-js-progress'
     }
 </script>
 ```
+
+## Github
+You can visit to 
 
 ## Usage (Count Up)
 ```

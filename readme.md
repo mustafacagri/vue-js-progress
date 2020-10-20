@@ -23,8 +23,8 @@ import VueJsProgress from 'vue-js-progress'
 </script>
 ```
 
-## Github
-You can visit to 
+## npmjs
+You can visit to https://www.npmjs.com/package/vue-js-progress
 
 ## Usage (Count Up)
 ```

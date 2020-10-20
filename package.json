@@ -1,0 +1,14 @@
+{
+    "name": "vue-js-progress",
+    "version": "1.0.0",
+    "description": "With Vue Js Progress, you will have the opportunity to create your own animated progress bars.",
+    "main": "VueJsProgress.vue",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vue", "vue.js", "progress", "progress bar", "progressbar", "bootstrap", "bar", "percentage"
+    ],
+    "author": "mustafacagri | Mustafa Çağrı Güven me@mustafacagri.com",
+    "license": "ISC"
+}
